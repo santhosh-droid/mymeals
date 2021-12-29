@@ -1,0 +1,47 @@
+#navbar ul li{
+    font-size:1.05rem;
+}
+#home::before{
+    height:300px;
+}
+#home{
+    padding:1px 1px;
+}
+#home h1{
+    font-size:20px;
+}
+#home p{
+  font-size:1.04rem;
+}
+/*services section*/
+#service .box1 p{
+    font-size:14px;
+}
+@media only screen and (min-width:500px) and (max-width:600px)
+{
+#service .box1 p{
+   font-size: 19px;
+}
+}
+#service .box1 {
+   margin:5px 8px;
+}
+#service .box1 img {
+    height:100px;
+   
+}
+/*Client Section*/
+#client img {
+    padding:1px;
+}
+/*utility section*/
+.h-sec{
+    padding-top:35px;
+}
+#navbar ul li a{
+    padding:0px 8px;
+    margin:15px 2px;
+}
+#service .box1{
+    height:255px;
+}

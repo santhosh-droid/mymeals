@@ -1,0 +1,23 @@
+/*home section*/
+#home p{
+    font-size:1.55rem;
+}
+#home .h-first{
+    font-size:4.5rem;
+
+}
+#home button{
+    font-size:1.5rem;
+}
+/* service section */
+#service .box1 p{
+    font-size:18px;
+}
+#client img{
+    height:200px;
+
+}
+/*utility classes*/
+.h-thr{
+    font-size:1.5rem;
+}
