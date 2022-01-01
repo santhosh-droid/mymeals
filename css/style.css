@@ -273,3 +273,16 @@ footer{
     font-weight:bold;
     text-align:center;
 }
+/*when screen size b/n 100 and 400*/
+@media only screen and (min-width:100px) and (max-width:400px)
+{
+    #navbar ul li a{
+        font-size:18px;
+    }
+    #home h1{
+        font-size:20px;
+    }
+    .btn{
+        font-size:1.18rem;
+    }
+}
