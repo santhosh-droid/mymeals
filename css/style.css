@@ -277,7 +277,7 @@ footer{
 @media only screen and (min-width:100px) and (max-width:400px)
 {
     #navbar ul li a{
-        font-size:18px;
+        font-size:15px;
     }
     #home h1{
         font-size:20px;
