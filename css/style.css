@@ -34,7 +34,7 @@
 }
 #logo img{
     height:40px;
-    width:40 px;
+    width:40px;
     margin:2px 8px;
 }
 /* Navigation bar : List styling*/
@@ -124,6 +124,19 @@
     border-radius:22px;
     background-color:#e1cbcb70;;
 }
+@media only screen and (min-width:100px) and (max-width:400px)
+{
+    #navbar ul li a{
+        font-size:15px;
+    }
+    #home h1{
+        font-size:20px;
+    }
+    .btn{
+        font-size:1.18rem;
+    }
+}
+
 @media only screen and (min-width:1000px) and (max-width:1400px)
 {
     #home h1{
@@ -274,15 +287,3 @@ footer{
     text-align:center;
 }
 /*when screen size b/n 100 and 400*/
-@media only screen and (min-width:100px) and (max-width:400px)
-{
-    #navbar ul li a{
-        font-size:15px;
-    }
-    #home h1{
-        font-size:20px;
-    }
-    .btn{
-        font-size:1.18rem;
-    }
-}
