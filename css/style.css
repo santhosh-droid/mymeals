@@ -12,7 +12,7 @@
 /*Navgiation bar*/
 #navbar{
     top:0px;
-    position: fixed;
+    position: sticky;
     display:flex;
     align-items:center;
 }
