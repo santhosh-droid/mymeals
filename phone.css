@@ -3,6 +3,7 @@
 } */
 /* Navigation-section */
 #navbar{
+    position:sticky;
     display:flex;
     flex-direction:column;
 }
