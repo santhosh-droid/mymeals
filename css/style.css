@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Baloo+Bhaina+2&family=Montserrat:wght@500&family=Roboto:ital@0;1&family=Rubik:wght@300&family=Zen+Antique+Soft&display=swap');
 /*CSS Reset*/
 *{
     /* color:black; */
     margin:0px;
     padding:0px;
+    font-family:'Montserrat',sans-serif;
     /* cursor: pointer; */
 }
 /*CSS Variables*/
