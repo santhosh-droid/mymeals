@@ -247,10 +247,11 @@ background:url(../complogo/contact.jpg) no-repeat center center/cover;
 }
 /* footer */
 footer{
+    position:sticky;
     color:white;
     background:black;
     padding:5px 2px;
-    position:sticky;
+    
 }
 
 /* Utility classes */
