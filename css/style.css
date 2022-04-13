@@ -250,7 +250,7 @@ footer{
     color:white;
     background:black;
     padding:5px 2px;
-    position:fixed;
+    position:sticky;
 }
 
 /* Utility classes */
